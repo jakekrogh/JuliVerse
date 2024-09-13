@@ -1,0 +1,3 @@
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+JuliVerse = "cc0c3578-aadb-4237-91ce-897ec67b0ab5"
